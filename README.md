@@ -1,3 +1,3 @@
-接口|说明|
---|--|
-[1](https://github.com/hayekex/API_Docs/wiki/orider)|2|
+
+# README #
+请查看<a href="https://github.com/Biboxcom/api_reference/wiki/home_zh">Wiki</a>。
