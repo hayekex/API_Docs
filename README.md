@@ -1,3 +1,3 @@
 
 # README #
-请查看<a href="https://github.com/Biboxcom/api_reference/wiki/home_zh">Wiki</a>。
+请查看<a href="https://github.com/hayekex/API_Docs/wiki">Wiki</a>。
